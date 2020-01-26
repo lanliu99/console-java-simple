@@ -7,6 +7,6 @@ package org.eclipse.che.examples;
 public class HelloWorld {
     public static void main(String... argvs) {
         String a = "Che";
-        System.out.println("Hello World 6 " + a + "!");
+        System.out.println("Hello World 7 " + a + "!");
     }
 }
